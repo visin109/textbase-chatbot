@@ -1,11 +1,11 @@
 # textbase-mental health chatbot
 **Idea: Creating a Mental Health Chatbot with GPT-3.5 Turbo**
 
-1. **Mental Health Support:** Develop a chatbot to offer emotional support for loneliness, sadness, and stress.
+1. **Mental Health Support:** Developed a chatbot to offer emotional support for loneliness, sadness, and stress.
 
 2. **Powered by GPT-3.5 Turbo:** Leveraged the OpenAI's GPT-3.5 Turbo for human-like responses.
 
-3. **User Input:** Users communicate their emotions via text messages.
+3. **User Input:** Allowing Users to communicate their emotions via text messages.
 
 4. **Message History:** Maintaining a message history, including user and system messages for context.
 
@@ -13,7 +13,7 @@
 
 6. **Emotion-Specific Functions:** Creating functions for loneliness, sadness, stress responses  or other relevant emotions.
 
-7. **User-Triggered Responses:** Identifing user emotions through keywords and route to relevant functions.
+7. **User-Triggered Responses:** Identifing user's emotions through keywords and route to relevant functions.
 
 8. **Response Generation:** Calling the GPT-3.5 Turbo with prompts and message history.
 
